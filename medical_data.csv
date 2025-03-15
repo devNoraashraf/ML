@@ -1,0 +1,56 @@
+﻿spicitalist,Orthopedics,Neurologist,Cosmetic Surgeon,Internists,Urologist,General Surgeon,Obstetrician and Gynecologist,Neurologist,Psychiatrist,Oncologist,Neurology Specialist,Ophthalmologist,Orthopedics,Neurologist
+Bruise,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Swelling,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Post-accident pain,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Dislocated shoulder,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Pain with difficulty in movement,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Numbness,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Muscle atrophy,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Loss of motor control,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Inability to move,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Muscle tears,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Tendon tears,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Loss of skin,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Burns,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Moderate abdominal pain,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Diarrhea,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Stomach burning sensation,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Bloating,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Vomiting,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pain on the side of the abdomen,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Burning sensation during urination,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cut in the urine,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Blood in urine,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Difficulty urinating,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Severe abdominal pain,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Constipation,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Severe pain on the right side,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Appearance of tumors in the abdomen,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Menstrual cycle cessation,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Irregular menstrual cycle,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Severe pain during menstrual cycle,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Presence of foul-smelling vaginal discharge,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Loss of speech,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Speech hesitation,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Inability to understand and comprehend,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Sudden paralysis,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Numbness in limbs,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Difficulty walking,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Drooping of the mouth,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Dizziness,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Sudden severe headache,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Decreased intelligence quotient,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Loss of activities of daily living skills,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Cognitive impairment,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Difficulty thinking,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Severe headache,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Difficulty in speaking,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Feeling of numbness,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Hearing impairment,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Memory loss,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Difficulty remembering events,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Difficulty concentrating,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Eye pain,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Dry eyes,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Blurred vision,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Redness in the eye,0,0,0,0,0,0,0,0,0,0,0,1,0,0
